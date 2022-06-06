@@ -2,4 +2,5 @@ Saya mencoba github.
 
 Semoga bermanfaat.
 
-Membuat perubahan pada content file.
+
+Saya menghapus isi file.
